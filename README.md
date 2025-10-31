@@ -38,4 +38,13 @@ download.sh    - Script to fetch ImageNet-BG backgrounds
 
 ## Citation
 
-To be added upon publication.
+```
+@InProceedings{Piekarek_2025_ICCV,
+    author    = {Piekarek, {\L}ukasz and Szyc, Kamil},
+    title     = {ImageNet-BG: A Toolkit and Dataset for Evaluating Vision Model Robustness Against Background Variations},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2025},
+    pages     = {231-240}
+}
+```
